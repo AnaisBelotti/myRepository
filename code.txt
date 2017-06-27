@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Création d'un fichier texte sous git (code.txt) à pusher sur GitHub.
+=======
+Création d'un nouveau fichier texte qui se nomme code.txt
+
+Nouvelle modification mais qui a cette fois lieu en local et pas sur GitHub !!!
+Modification du fichier texte (une seconde fois) code.txt sous GitHub.
+Ajout d'une modif' pour tester les conflits.
+
+On merge ainsi les deux codes pour avoir la version qui nous convient.
+>>>>>>> 2305cc550c18eb2ddb84c9c902dce6ffea6ed63d
