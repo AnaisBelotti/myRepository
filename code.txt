@@ -5,3 +5,5 @@ Modification du fichier texte (une seconde fois) code.txt sous GitHub.
 Ajout d'une modif' pour tester les conflits.
 
 On merge ainsi les deux codes pour avoir la version qui nous convient.
+
+Insertion via la branche devLogin uniquement!
