@@ -1,3 +1,7 @@
 Création d'un nouveau fichier texte qui se nomme code.txt
-Modification du fichier texte code.txt sous GitHub
+
 Nouvelle modification mais qui a cette fois lieu en local et pas sur GitHub !!!
+Modification du fichier texte (une seconde fois) code.txt sous GitHub.
+Ajout d'une modif' pour tester les conflits.
+
+On merge ainsi les deux codes pour avoir la version qui nous convient.
