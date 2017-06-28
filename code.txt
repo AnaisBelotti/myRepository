@@ -1,4 +1,4 @@
-Création d'un nouveau fichier texte qui se nomme code.txt
+﻿Création d'un nouveau fichier texte qui se nomme code.txt
 
 Nouvelle modification mais qui a cette fois lieu en local et pas sur GitHub !!!
 Modification du fichier texte (une seconde fois) code.txt sous GitHub.
@@ -7,3 +7,5 @@ Ajout d'une modif' pour tester les conflits.
 On merge ainsi les deux codes pour avoir la version qui nous convient.
 
 Insertion via la branche devLogin uniquement!
+
+modif effectuée via le bloc note pour test de tortoise !!
