@@ -10,4 +10,4 @@ Ajout d'une modif' pour tester les conflits.
 On merge ainsi les deux codes pour avoir la version qui nous convient.
 >>>>>>> 2305cc550c18eb2ddb84c9c902dce6ffea6ed63d
 
-création d'un conflit entre master et devLogin
+création d'un conflit entre master et devLogin.
